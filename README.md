@@ -109,8 +109,8 @@ SmartSheet AI/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd SmartSheet-AI
+git clone https://github.com/vishnu122223/smartsheetAI.git
+cd smartsheetAI
 ```
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual public GitHub repository URL after uploading.
@@ -185,31 +185,25 @@ The backend typically runs on port `3000`, depending on your configuration.
 ## Screenshots
 
 ### Dashboard
-
 ![Dashboard](screenshots/DashboardPage.png)
 
 ### Documents
-
 ![Documents](screenshots/DocumentDetails.png)
 
 ### Flashcards
-
-![Flashcards](screenshots/FlashcardsPage.png)
+![Flashcards](screenshots/FlashCardsPage.png)
+![Flashcard View](screenshots/Flashcard.png)
 
 ### Quiz
-
 ![Quiz](screenshots/Quiz.png)
 
 ### AI Chat
-
 ![AI Chat](screenshots/AIChat.png)
 
 ### AI Actions
-
 ![AI Actions](screenshots/AIActions.png)
 
 ### Profile
-
 ![Profile](screenshots/ProfilePage.png)
 
 ## Environment Variables
