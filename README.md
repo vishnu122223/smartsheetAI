@@ -177,7 +177,7 @@ npm run dev
 Open the local frontend URL shown in your terminal, usually:
 
 ```text
-http://localhost:5173
+http://localhost:5174/dashboard
 ```
 
 The backend typically runs on port `3000`, depending on your configuration.
