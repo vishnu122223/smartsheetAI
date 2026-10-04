@@ -182,6 +182,30 @@ http://localhost:5174
 
 The backend typically runs on port `3000`, depending on your configuration.
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/DashboardPage.png)
+
+### Documents
+![Documents](screenshots/DocumentDetails.png)
+
+### Flashcards
+![Flashcards](screenshots/FlashCardsPage.png)
+![Flashcard View](screenshots/Flashcard.png)
+
+### Quiz
+![Quiz](screenshots/Quiz.png)
+
+### AI Chat
+![AI Chat](screenshots/AIChat.png)
+
+### AI Actions
+![AI Actions](screenshots/AIActions.png)
+
+### Profile
+![Profile](screenshots/ProfilePage.png)
+
 
 ## Environment Variables
 
